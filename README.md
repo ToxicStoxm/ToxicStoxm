@@ -18,7 +18,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toxicstoxm&theme=dark&show_icons=true&locale=en&hide=contribs&hide_title=true&include_all_commits=true&rank_icon=percentile" alt="toxicstoxm" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toxicstoxm&theme=dark&show_icons=true&locale=en" alt="toxicstoxm" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toxicstoxm&theme=dark&show_icons=true&locale=en&include_all_commits=true&rank_icon=percentile" alt="toxicstoxm" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toxicstoxm&theme=dark&show_icons=true&langs_count=3&hide_title=false&locale=en" alt="toxicstoxm" /></p>
 
 <h3 align="left">Current projects:</h3>
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toxicstoxm&repo=craftiservi&theme=dark" alt="toxicstoxm" /></p>
