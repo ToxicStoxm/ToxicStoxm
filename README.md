@@ -21,4 +21,4 @@
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toxicstoxm&theme=dark&show_icons=true&locale=en&include_all_commits=true&rank_icon=percentile" alt="toxicstoxm" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toxicstoxm&theme=dark&show_icons=true&langs_count=3&hide_title=false&locale=en" alt="toxicstoxm" /></p>
 
 <h3 align="left">Current projects:</h3>
-<p href="https://github.com/toxicstoxm/craftiservi" align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toxicstoxm&repo=craftiservi&theme=dark" alt="toxicstoxm" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toxicstoxm&repo=craftiservi&theme=dark" href="https://github.com/toxicstoxm/craftiservi" alt="toxicstoxm" /></p>
