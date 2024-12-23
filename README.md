@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm ToxicStoxm</h1>
 <h3 align="left">JavaGI | Minecraft Plugins | Discord Bots</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=toxicstoxm&label=Profile%20views&color=0e75b6&style=flat" alt="toxicstoxm" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=toxicstoxm&abbreviated=true" alt="toxicstoxm" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
