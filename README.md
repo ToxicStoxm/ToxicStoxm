@@ -1,7 +1,7 @@
 # Hi 👋, I'm ToxicStoxm
 ### JavaGI | Minecraft Plugins | Discord Bots
 
-![Profile Views](https://komarev.com/ghpvc/?username=toxicstoxm&abbreviated=true)
+![Profile Views](https://komarev.com/ghpvc/?username=toxicstoxm2&abbreviated=true)
 
 <!--### Languages and Tools:
 <p align="left">
