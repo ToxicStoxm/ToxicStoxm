@@ -1,4 +1,4 @@
-# Hi 👋, I'm ToxicStoxm
+# Hi 👋, I'm Dominik
 ### JavaGI | Minecraft Plugins | Discord Bots
 
 ![Profile Views](https://komarev.com/ghpvc/?username=toxicstoxm2&abbreviated=true)
