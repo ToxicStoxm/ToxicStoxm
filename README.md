@@ -20,7 +20,7 @@
 </p>-->
 ### GitHub Statistics
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=toxicstoxm&theme=dark&show_icons=true&locale=en&include_all_commits=true&rank_icon=percentile" alt="toxicstoxm" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=toxicstoxm&theme=dark&show_icons=true&locale=en&include_all_commits=true&rank_icon=percentile" alt="toxicstoxm" />
   <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toxicstoxm&theme=dark&show_icons=true&langs_count=3&hide_title=false&locale=en" alt="toxicstoxm" />-->
 </p>
 
